@@ -1,3 +1,3 @@
-# Desafio-de-projeto-Dio.me
-
-Calculadora IMC
+# Calculadora IMC em Dart
+# DIO
+### Caio Bonalume
